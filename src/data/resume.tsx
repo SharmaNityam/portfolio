@@ -9,7 +9,7 @@ export const DATA = {
     "Software Developer Engineer. I love building things and helping people.",
   summary:
     "At the beginning of 2025, I joined HeyDoc AI as an SDE Intern, focusing on AI-powered mobile applications. Previously, I interned at multiple startups, including Infiheal, Rhyno Wheels, and Kreative Tech, where I worked on building and optimizing Flutter applications. Along the way, I’ve developed projects ranging from blockchain-based transaction platforms to dynamic e-commerce apps. I specialize in Flutter, Firebase, Riverpod, Provider, and RESTful APIs, always looking to push the boundaries of mobile development. Beyond work, I enjoy exploring new technologies and contributing to impactful digital experiences that blend performance, scalability, and seamless user interaction.",
-  avatarUrl: "/me.jgp",
+  avatarUrl: "/me.png",
   skills: [
     "Flutter",
     "Firebase",
