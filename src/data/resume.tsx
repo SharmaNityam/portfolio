@@ -149,7 +149,7 @@ projects: [
       {
         type: "GitHub",
         href: "https://github.com/SharmaNityam/MediScan",
-        icon: "<Icons.github className='size-3' />",
+        icon: <Icons.github className='size-3' />,
       },
     ],
     image: "",
@@ -173,7 +173,7 @@ projects: [
       {
         type: "GitHub",
         href: "https://github.com/SharmaNityam/crude-oil-processing-chart-app",
-        icon: "<Icons.github className='size-3' />",
+        icon: <Icons.github className='size-3' />,
       },
     ],
     image: "",
@@ -189,14 +189,13 @@ projects: [
       "Flutter",
       "Provider",
       "Firebase",
-      "Dart",
-      "Stripe API"
+      "Dart"
     ],
     links: [
       {
         type: "GitHub",
         href: "https://github.com/SharmaNityam/Shopping-App-using-Flutter",
-        icon: "<Icons.github className='size-3' />",
+        icon: <Icons.github className='size-3' />,
       },
     ],
     image: "",
@@ -219,7 +218,7 @@ projects: [
       {
         type: "GitHub",
         href: "https://github.com/SharmaNityam/CryptoWallet",
-        icon: "<Icons.github className='size-3' />",
+        icon: <Icons.github className='size-3' />,
       },
     ],
     image: "",
@@ -242,7 +241,7 @@ projects: [
       {
         type: "GitHub",
         href: "https://github.com/SharmaNityam/fampay_assignment",
-        icon: "<Icons.github className='size-3' />",
+        icon: <Icons.github className='size-3' />,
       },
     ],
     image: "",
@@ -265,7 +264,7 @@ projects: [
       {
         type: "GitHub",
         href: "https://github.com/SharmaNityam/firebase_todo",
-        icon: "<Icons.github className='size-3' />",
+        icon: <Icons.github className='size-3' />,
       },
     ],
     image: "",
